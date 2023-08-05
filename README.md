@@ -1,4 +1,4 @@
-# FROST Crypto Protocol Implementation (Python Notebook)
+# FROST Notebook
 
 This Python Jupyter Notebook provides an educational implementation of the FROST (Flexible Round-Optimized Schnorr Threshold) cryptographic protocol. FROST is a protocol that enables secure multi-party threshold digital signatures.
 
@@ -40,7 +40,10 @@ This notebook is provided as-is and without warranty. The authors and contributo
 ## Resources
 
 - Original FROST Paper: [Flexible Round-Optimized Schnorr Threshold Signatures](https://eprint.iacr.org/2020/852.pdf)
-- Cryptography and Blockchain Tutorials: [OpenAI Cryptography & Blockchain Tutorials](https://platform.openai.com/docs/guides/crypto-and-blockchain)
+
+## TODO
+- Replace a signer and still sign
+- ROAST
 
 ## License
 
