@@ -4,6 +4,8 @@ This Python Jupyter Notebook provides an educational implementation of the FROST
 
 Please note that this implementation is **not meant for production use** and is intended solely for educational purposes. It serves as a basic example to help understand the concepts of the FROST protocol and its implementation. Use it at your own risk and discretion.
 
+Shout out to Jesse Posner's [refrence python implementation](https://github.com/jesseposner/FROST-BIP340/tree/main)
+
 ## About FROST Protocol
 
 FROST (Flexible Round-Optimized Schnorr Threshold) is a cryptographic protocol that allows multiple parties to collaboratively sign a message while maintaining security against various types of attacks. It utilizes threshold cryptography, where a signature can be generated only when a threshold number of parties cooperate.
